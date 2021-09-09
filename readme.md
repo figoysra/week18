@@ -27,6 +27,34 @@ Base URL : http://localhost:2000
 | ------------- | ------------- |
 | /users  | Getting all data users  |
 | /users/:id  | Getting user data by ID  |
-| /product | Getting all data products |
+| /products | Getting all data products |
+| /inv | Getting Transaction data |
 
-### 
+### Method Post
+
+**Endpoint**
+
+| Endpoint  | Description |
+| ------------- | ------------- |
+| /users  | Register new Users  |
+| /products | Add new products |
+| /inv | Add new Invoice |
+
+### Method Update
+
+**Endpoint**
+
+| Endpoint  | Description |
+| ------------- | ------------- |
+| /users  | Update users  |
+| /products | Update products |
+
+### Method Delete
+
+**Endpoint**
+
+| Endpoint  | Description |
+| ------------- | ------------- |
+| /users  | Delete users  |
+| /products | Delete products |
+
